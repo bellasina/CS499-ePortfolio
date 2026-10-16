@@ -40,3 +40,13 @@ The ePortfolio also reflects how my professional goals have developed. I am inte
 The technical artifact in this portfolio brings many of these skills together. I selected the Grazioso Salvare Rescue Candidate Dashboard because it gave me a strong opportunity to demonstrate growth in several areas using the same application. The Software Design and Engineering enhancement improved the structure, maintainability, security, and usability of the program. The Algorithms and Data Structures enhancement added a scoring and ranking system that uses appropriate data structures to prioritize rescue candidates. The Database enhancement expanded the application with validation, indexing, aggregation, and more complete data-management capabilities. Using the same artifact across all three enhancement categories allowed me to show how one application can evolve when it is examined from different areas of computer science.
 
 Overall, this ePortfolio represents more than a collection of completed assignments. It shows the progression of my skills throughout the Computer Science program and my ability to revisit earlier work with a stronger understanding of software development. I have learned how to analyze an existing solution, identify areas for improvement, make design decisions, test those decisions, consider security and performance, and explain my work clearly. These skills have helped prepare me to continue learning and contribute in a professional computer science environment.
+
+---
+
+## Portfolio Downloads
+
+- [Professional Self-Assessment](Angel_Levaomana_CS499_Professional_Self_Assessment.docx)
+- [Software Design and Engineering Narrative](Angel_Levaomana_CS499_Final_Software_Design_and_Engineering_Narrative.docx)
+- [Algorithms and Data Structures Narrative](Angel_Levaomana_CS499_Final_Algorithms_and_Data_Structures_Narrative.docx)
+- [Databases Narrative](Angel_Levaomana_CS499_Final_Databases_Narrative.docx)
+- [Final Technical Artifact](Angel_Levaomana_CS499_Final_Technical_Artifact.zip)
