@@ -45,8 +45,8 @@ Overall, this ePortfolio represents more than a collection of completed assignme
 
 ## Portfolio Downloads
 
-- [Professional Self-Assessment](Angel_Levaomana_CS499_Professional_Self_Assessment.docx)
-- [Software Design and Engineering Narrative](Angel_Levaomana_CS499_Final_Software_Design_and_Engineering_Narrative.docx)
-- [Algorithms and Data Structures Narrative](Angel_Levaomana_CS499_Final_Algorithms_and_Data_Structures_Narrative.docx)
-- [Databases Narrative](Angel_Levaomana_CS499_Final_Databases_Narrative.docx)
-- [Final Technical Artifact](Angel_Levaomana_CS499_Final_Technical_Artifact.zip)
+- [Download Professional Self-Assessment](https://github.com/bellasina/CS499-ePortfolio/raw/refs/heads/main/Angel_Levaomana_CS499_Professional_Self_Assessment.docx)
+- [Download Software Design and Engineering Narrative](https://github.com/bellasina/CS499-ePortfolio/raw/refs/heads/main/Angel_Levaomana_CS499_Final_Software_Design_and_Engineering_Narrative.docx)
+- [Download Algorithms and Data Structures Narrative](https://github.com/bellasina/CS499-ePortfolio/raw/refs/heads/main/Angel_Levaomana_CS499_Final_Algorithms_and_Data_Structures_Narrative.docx)
+- [Download Databases Narrative](https://github.com/bellasina/CS499-ePortfolio/raw/refs/heads/main/Angel_Levaomana_CS499_Final_Databases_Narrative.docx)
+- [Download Final Technical Artifact](https://github.com/bellasina/CS499-ePortfolio/raw/refs/heads/main/Angel_Levaomana_CS499_Final_Technical_Artifact.zip)
