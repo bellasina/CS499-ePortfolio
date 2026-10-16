@@ -178,6 +178,6 @@ The automated pytest verification also showed:
 
 ## Technical Artifacts
 
-**Original Artifact:** Link will be added after the original code is uploaded.
+[Download the Final Technical Artifact](Angel_Levaomana_CS499_Final_Technical_Artifact.zip)
 
-**Enhanced Artifact:** Link will be added after the enhanced code is uploaded.
+The technical artifact package contains both the original Grazioso Salvare artifact and the final enhanced artifact used throughout the three CS 499 enhancement categories.
