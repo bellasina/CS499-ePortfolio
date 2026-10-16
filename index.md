@@ -43,8 +43,6 @@ Overall, this ePortfolio represents more than a collection of completed assignme
 
 ---
 
----
-
 ## Portfolio Files
 
 The complete Word narratives, Professional Self-Assessment, and technical artifact files are stored in my GitHub repository.
