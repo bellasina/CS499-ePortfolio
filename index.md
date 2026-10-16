@@ -10,6 +10,15 @@ Welcome to my Computer Science ePortfolio. This portfolio highlights my growth t
 
 ---
 
+## Portfolio Navigation
+
+- [Code Review](code-review.md)
+- [Software Design and Engineering](software-design.md)
+- [Algorithms and Data Structures](algorithms-data-structures.md)
+- [Databases](databases.md)
+
+---
+
 # Professional Self-Assessment
 
 Completing the Computer Science program at Southern New Hampshire University has helped me see how much I have grown both technically and professionally. When I began the program, many of my assignments were focused on learning individual programming concepts and getting a program to work correctly. As I progressed through the program, I began to understand that computer science involves much more than simply writing code. A good solution also needs to be organized, secure, efficient, understandable, and useful to the people who depend on it. Developing my ePortfolio has given me the opportunity to bring those skills together and show how my work has improved over time.
